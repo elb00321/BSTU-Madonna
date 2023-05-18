@@ -1823,6 +1823,12 @@
 }
 }
 
+@media screen and (max-width: 767px){
+  .header_burger {
+    display: block;
+  }
+}
+
 @media screen and (max-width: 320px){
 .vector-icon {
   height: 83.29%;
