@@ -496,7 +496,7 @@
   height: 55px;
 }
 .b11 {
-  top: 0;
+  top: -4px;
   left: calc(50% - 57.5px);
   font-size: var(--font-size-xl);
   line-height: 40px;
