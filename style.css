@@ -891,6 +891,7 @@
 .desktop {
   margin:auto;
   max-width: 1024px;
+  padding: 0 15px;
 }
 
 @media screen and (max-width: 768px){
@@ -1817,17 +1818,22 @@
   font-size: var(--font-size-5xl);
   color: var(--color-darkolivegreen);
   font-family: var(--font-merriweather);
+  padding: 0 15px;
 }
 .desktop{
   height:4531px;
 }
 }
 
+/*Media start*/
+
 @media screen and (max-width: 767px){
   .header_burger {
     display: block;
   }
 }
+
+/*Media end*/
 
 @media screen and (max-width: 320px){
 .vector-icon {
@@ -2697,18 +2703,9 @@
   font-size: var(--font-size-xs);
   color: var(--color-darkolivegreen);
   font-family: var(--font-merriweather);
+  padding: 0 15px;
 }
 .desktop {
   height: 2333px;
 }
 }
-
-/*Media start*/
-
-@media screen and (max-width: 767px){
-  .header_burger {
-    display: block;
-  }
-}
-
-/*Media end*/
