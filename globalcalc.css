@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-tiro-devanagari-marathi: "Tiro Devanagari Marathi";
+  --font-tinos: Tinos;
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-10xl: 26px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-darkolivegreen: #4b4c2c;
+  --color-palegoldenrod: #efeeb6;
+  --color-black: #000;
+  --color-darkkhaki: #9fa659;
+
+  /* border radiuses */
+  --br-26xl: 45px;
+}

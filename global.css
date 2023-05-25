@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-tiro-devanagari-marathi: "Tiro Devanagari Marathi";
+  --font-spectral-sc: "Spectral SC";
+  --font-merriweather: Merriweather;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-3xs: 10px;
+  --font-size-2xs: 11px;
+  --font-size-smi: 13px;
+
+
+  /* Colors */
+  --color-tan: #b7b094;
+  --color-darkolivegreen: #4b4c2c;
+  --color-black: #000;
+  --color-darkkhaki-100: #9fa659;
+  --color-darkkhaki-200: rgba(159, 166, 89, 0.5);
+  --color-palegoldenrod: #efeeb6;
+}
