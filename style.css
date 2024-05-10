@@ -20,7 +20,7 @@
   font-size: var(--font-size-13xl);
   line-height: 50px;
   font-family: var(--font-inter);
-  color: 1324BAFF;
+  color: #1324BAFF;
   text-align: left;
   display: inline-block;
 }
@@ -38,7 +38,7 @@
   font-size: var(--font-size-13xl);
   line-height: 50px;
   font-family: var(--font-inter);
-  color: 1324BAFF;
+  color: #1324BAFF;
   display: inline-block;
 }
 .button10 {
@@ -55,7 +55,7 @@
   font-size: var(--font-size-13xl);
   line-height: 50px;
   font-family: var(--font-inter);
-  color: 1324BAFF;
+  color: #1324BAFF;
   display: inline-block;
 }
 .button11 {
@@ -72,7 +72,7 @@
   line-height: 50px;
   text-align: center;
   font-family: var(--font-inter);
-  color: 1324BAFF;
+  color: #1324BAFF;
   display: inline-block;
 }
 .button12 {
@@ -88,7 +88,7 @@
   font-size: var(--font-size-13xl);
   line-height: 50px;
   font-family: var(--font-inter);
-  color: 1324BAFF;
+  color: #1324BAFF;
   display: inline-block;
 }
 .button10:hover,
@@ -157,7 +157,7 @@
   top: 100px;
   height: 60px;
   font-size: 50px;
-  color: 1324BAFF;
+  color: #1324BAFF;
 }
 .promotitle {
   left: 100px;
